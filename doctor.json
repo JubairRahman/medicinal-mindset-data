@@ -1,0 +1,52 @@
+{
+  "doctors": [
+    {
+      "id": "dr-001",
+      "name": "Dr. Jubair Rahman",
+      "isVerified": true,
+      "rating": 5,
+      "reviewCount": 27,
+      "location": "Georgia, USA",
+      "availability": "Available Fri, 22 Mar",
+      "priceRange": {
+        "min": 100,
+        "max": 400,
+        "currency": "$"
+      },
+      "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=2070",
+      "bgColor": "#d4e9ff"
+    },
+    {
+      "id": "dr-002",
+      "name": "Dr. Sarah Jenkins",
+      "isVerified": true,
+      "rating": 4,
+      "reviewCount": 15,
+      "location": "New York, USA",
+      "availability": "Available Mon, 25 Mar",
+      "priceRange": {
+        "min": 150,
+        "max": 500,
+        "currency": "$"
+      },
+      "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?q=80&w=2070",
+      "bgColor": "#e0f2fe"
+    },
+    {
+      "id": "dr-003",
+      "name": "Dr. Michael Chen",
+      "isVerified": false,
+      "rating": 5,
+      "reviewCount": 42,
+      "location": "California, USA",
+      "availability": "Available Wed, 27 Mar",
+      "priceRange": {
+        "min": 200,
+        "max": 600,
+        "currency": "$"
+      },
+      "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?q=80&w=2070",
+      "bgColor": "#dcfce7"
+    }
+  ]
+}

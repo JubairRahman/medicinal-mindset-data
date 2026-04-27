@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of Web Development in 2026",
+      "author": "Ujjal Zaman",
+      "date": "Mar 18, 2026",
+      "image": "https://images.unsplash.com/photo-1511174511562-5f7f185879f9?q=80&w=2070",
+      "excerpt": "Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since..."
+    },
+    {
+      "id": 2,
+      "title": "Mastering Tailwind CSS Grid Systems",
+      "author": "Ujjal Zaman",
+      "date": "Mar 20, 2026",
+      "image": "https://images.unsplash.com/photo-1511174511562-5f7f185879f9?q=80&w=2070",
+      "excerpt": "Exploring how to build responsive layouts using the latest CSS utility classes and modern design principles..."
+    },
+    {
+      "id": 3,
+      "title": "Why JSON is the Standard for Data Exchange",
+      "author": "Ujjal Zaman",
+      "date": "Mar 22, 2026",
+      "image": "https://images.unsplash.com/photo-1511174511562-5f7f185879f9?q=80&w=2070",
+      "excerpt": "A deep dive into why developers prefer lightweight data formats for fetching remote content from APIs..."
+    }
+  ]
+}
